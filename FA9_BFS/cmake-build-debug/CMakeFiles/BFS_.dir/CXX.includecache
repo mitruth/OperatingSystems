@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Mitruth/Documents/C++ BOSS/BFS*/main.cpp
+stdlib.h
+-
+iostream
+-
+vector
+-
+queue
+-
+
