@@ -1,3 +1,0 @@
-/Users/Mitruth/Documents/C++ BOSS/disjoint_sets_Kruskal/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Mitruth/Documents/C++ BOSS/disjoint_sets_Kruskal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/Mitruth/Documents/C++ BOSS/disjoint_sets_Kruskal/cmake-build-debug/CMakeFiles/disjoint_sets_Kruskal.dir
