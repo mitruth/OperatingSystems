@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Mitruth/Documents/C++ BOSS/FA_Assignment_1/Profiler_linux.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+Windows.h
+-
+Shellapi.h
+-
+typeinfo
+-
+map
+-
+vector
+-
+algorithm
+-
+functional
+-
+
+/Users/Mitruth/Documents/C++ BOSS/FA_Assignment_1/main.cpp
+iostream
+-
+Profiler_linux.h
+/Users/Mitruth/Documents/C++ BOSS/FA_Assignment_1/Profiler_linux.h
+
